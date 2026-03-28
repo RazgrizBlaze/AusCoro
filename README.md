@@ -13,10 +13,9 @@
 </div>
 
 <p align="center">
-  🎮 Data Engineer with a passion for Software Development and Video Games.<br>
-  🚀 Always exploring new technologies and pushing the boundaries of innovation.<br>
-  🌟 Thrives in multidisciplinary teams and loves creating impactful solutions.<br>
-  🕹️ Favorite games: Ace Combat, Monster Hunter, and more.<br>
+  Data Engineer with a passion for Software Development and Video Games.<br>
+  Always exploring new technologies and pushing the boundaries of innovation.<br>
+  Thrives in multidisciplinary teams and loves creating impactful solutions.<br>
 </p>
 
 <div align="center">
@@ -57,7 +56,7 @@
 <h3 align="center" style="color: #00C9A7; font-weight: bold; text-shadow: 2px 2px #0052D4;">🔥 My GitHub Stats</h3>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AusCoro&layout=compact&theme=radical" height="200" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazgrizBlaze&layout=compact&theme=radical" height="200" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AusCoro&theme=radical" height="200" alt="Profile Details" />
 </div>
 
